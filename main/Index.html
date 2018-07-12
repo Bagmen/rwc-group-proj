@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="eg">
+<head>
+<title>CSS Template</title>
+
+<style>
+{
+box size: border-box;
+}
+
+header {
+	background-color: #666;
+	padding: 30px;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+img {
+    
+	float: center;
+	width:auto;
+	height: 300px;
+	background: #ccc;
+	padding: 20px;
+
+}
+nav {
+	float: center;
+	width:100%;
+	height: 100px;
+	word-spacing: 2px;
+	background: #ccc;
+	padding: 20px;
+}
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+article { 
+	float: left;
+	padding: 60px;
+	width: 60%;
+	background-color: #f1f1f1;
+	height: 500px;
+}
+
+section:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+footer {
+	background-color: #777;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+@media (max-width: 600px) {
+	nav, article {
+		width: 100%;
+		height: auto;
+	}
+}
+</style>
+</head>
+<body>
+
+<h2> welcome </h2>
+<img src="IMG_9773.jpg" width="100%" height="50%">
+<p> </p>
+<p></p>
+
+<header>
+	<h2> Web Development Union City High School </h2>
+</header>
+
+<section>
+	<nav>
+		<ul>
+			<li><a href="https://www.ucboe.us/">Union City</a>
+			<a href="david.html">David</a>
+			<a href="david.html">Rafael</a>
+			<a href="david.html">James</a>
+			<a href="david.html">Rayner</a>
+			<a href="david.html">Brandon</a></li>
+		</ul>
+	</nav>
+
+	<article>
+		<h1>David</h1>
+		<p> My name is David, and I am currently attending UCHS home of the soaring eagles where I am a soon to be senior. My current track is Web Development where we focus on learning html.
+		</p>
+		<h1>Rafael Garcia</h1>
+		<p> My name is Rafael Garcia, a soon to be Sophomore attending Union City High School who is looking forward to studying Computer Science in the future. I am interested in Software Development as a career and I believe that my participation in this program will help me achieve my goal.
+		</p>
+		<h1>Rayner</h1>
+		<p> I am Rayner Ulloa, I am about to be a junior in Union City High School. When I finish high school, I look forward to attend Rutgers University.
+		</p>
+		<h1>Brandon</h1>
+		<p>My name is Brandon. I am interested in doing Computer Science and attending NJIT. 
+		</p>
+		<h1>James</h1>
+		<p> My name is 	James . I am soon to be a junior at UCHS.
+		</p>
+		<p>qwerty
+		</p>
+	</article>
+</section>
+
+<footer>
+	<p>Footer</p>
+</footer>
+
+</body>
+</html>
