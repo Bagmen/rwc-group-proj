@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<marquee> Rafael's Profile </marquee>
+
+<link rel = "stylesheet" href = "style.css"> 
+
+<head>
+
+<title> Rafael Garcia </title> 
+
+
+<style> 
+
+body { 
+	background-color: #93B874;
+}
+</style> 
+
+
+
+</head>
+
+<body>
+<p> I am a fifteen year old soon-to-be Sophomore as of 2018 and I am
+looking forward to studying Computer Science in the future. I have an interest in the 
+Software Development field and would like to help develop new and innovative
+applications and other products. In my free time I enjoy playing guitar and videogames. 
+
+</p>
+
+</body>
+
+
+<img src="img_chania.jpg" width="460" height="345"> 
+
+
+
+A Github link to the 1st place winner of March 2018's RWC Competition, of which I assisted in the creation of a server side script: <a href= "https://github.com/RealWorldConnections/ChatApp"> https://github.com/RealWorldConnections/ChatApp </a>
+
+
+
+</html>
