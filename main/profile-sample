@@ -2,15 +2,9 @@
 
 <html>
 
-
-
 <marquee> Blank's Profile </marquee>
 
-
-
-<link rel = "stylesheet" href = "style.css"> 
-
-
+<link rel = "stylesheet" href = "style.css">
 
 <head>
 
@@ -18,13 +12,7 @@
 
 <title> Sample Profile </title> 
 
-
-
-
-
 <style> 
-
-
 
 body { 
 
@@ -34,46 +22,18 @@ body {
 
 </style> 
 
-
-
-
-
-
-
 </head>
-
-
 
 <body>
 
 <p>Some information about me. 
 
-
-
 </p>
-
-
 
 </body>
 
-
-
-
-
 <img src="img_chania.jpg" width="460" height="345"> 
 
-
-
-
-
-
-
 Sample Github Link: <a href= "https://github.com/RealWorldConnections/ChatApp"> https://github.com/RealWorldConnections/ChatApp </a>
-
-
-
-
-
-
 
 </html>
